@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ranjan Sarkar</h1>
 <h3 align="center">"👨‍💻 Passionate Web Developer | 🎓 Computer Science Engineering Student"</h3>
 
